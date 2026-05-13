@@ -16,10 +16,11 @@ Saya adalah seorang profesional teknis dengan spesialisasi di bidang IT Support,
 
 #### Full-Stack Web Development (MERN & More)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Database & Cloud
@@ -47,17 +48,20 @@ Saya adalah seorang profesional teknis dengan spesialisasi di bidang IT Support,
 
 ### 🚀 Featured Projects
 <p align="left">
-  <a href="https://github.com/USERNAME_ANDA/NAMA_REPO_MERN">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_ANDA&repo=NAMA_REPO_MERN&theme=dark" />
+  <a href="https://github.com/fiksriots/it-inventory">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fiksriots&repo=it-inventory&theme=dark" />
   </a>
-  <a href="https://github.com/USERNAME_ANDA/NAMA_REPO_2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME_ANDA&repo=NAMA_REPO_2&theme=dark" />
+  <!-- Jika nanti Anda punya repo kedua yang ingin ditampilkan, hapus tanda komentar di bawah ini dan ubah NAMA_REPO_2 -->
+  <!--
+  <a href="https://github.com/fiksriots/NAMA_REPO_2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fiksriots&repo=NAMA_REPO_2&theme=dark" />
   </a>
+  -->
 </p>
 
 ---
 
-### GitHub Stats & Presence
+<!-- Bagian GitHub Stats -->
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=dark" />
