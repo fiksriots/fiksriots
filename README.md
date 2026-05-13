@@ -48,7 +48,7 @@ Saya adalah seorang profesional teknis dengan spesialisasi di bidang IT Support,
 
 ### 🚀 Featured Projects
 <p align="left">
-  <a href="https://github.com/fiksriots/it-inventory">
+  <a href="https://it-inventory-flax.vercel.app/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fiksriots&repo=it-inventory&theme=dark" />
   </a>
   <!-- Jika nanti Anda punya repo kedua yang ingin ditampilkan, hapus tanda komentar di bawah ini dan ubah NAMA_REPO_2 -->
@@ -62,10 +62,10 @@ Saya adalah seorang profesional teknis dengan spesialisasi di bidang IT Support,
 ---
 
 <!-- Bagian GitHub Stats -->
-<p align="left">
+<!-- <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=dark" />
-</p>
+</p> -->
 
 * 🌐 **Personal Website:** [fikriots.id](https://fikriots.id)
 * 🛒 **Service Store:** [jasaaja.store](https://jasaaja.store)
