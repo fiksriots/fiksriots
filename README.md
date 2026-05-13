@@ -46,8 +46,8 @@ Saya adalah seorang profesional teknis dengan spesialisasi di bidang IT Support,
 
 ---
 
-### 🚀 Featured Projects
-<p align="left">
+
+<!-- <p align="left">
   <a href="https://it-inventory-flax.vercel.app/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fiksriots&repo=it-inventory&theme=dark" />
   </a>
@@ -57,7 +57,7 @@ Saya adalah seorang profesional teknis dengan spesialisasi di bidang IT Support,
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fiksriots&repo=NAMA_REPO_2&theme=dark" />
   </a>
   -->
-</p>
+</p> -->
 
 ---
 
